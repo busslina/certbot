@@ -1,7 +1,7 @@
 name: certbot
 description: Busslina's Let's Encrypt & Cerbot package.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/busslina/certbot
 
 environment:
   sdk: ^3.7.0
